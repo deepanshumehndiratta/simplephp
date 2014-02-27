@@ -1,0 +1,2 @@
+<?= 'Directory LOCKED.' ?>
+<? die(); ?>
